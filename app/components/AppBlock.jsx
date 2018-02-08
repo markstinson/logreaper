@@ -24,4 +24,4 @@ AppBlock.propTypes = {
     small: PropTypes.string
 };
 
-export default AppBlock;
+// export default AppBlock;
